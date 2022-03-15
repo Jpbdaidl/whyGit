@@ -3,3 +3,4 @@ update test
 test pull
 git diff patch
 testPatchFOrmat
+git fetch test
